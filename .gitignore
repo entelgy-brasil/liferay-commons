@@ -1,0 +1,10 @@
+*.class
+.settings
+.classpath
+.tern-project
+.project
+*/target/*
+target/*
+/target/
+.idea
+*.iml
